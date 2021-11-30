@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://luxplanjay.github.io/team-proj-demo",
+  "homepage": "https://MiorsSoks.github.io/test-repisitory",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-proj-demo/"
+    "build": "parcel build src/*.html --public-url /test-repisitory/"
   },
   "repository": {
     "type": "git",
